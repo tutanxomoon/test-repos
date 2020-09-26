@@ -1,0 +1,31 @@
+body {
+    padding-top: 20px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 45%, rgba(188,0,255,1) 100%);
+}
+table {
+    width: 90%;
+    height: 90vh;
+    margin: 0 auto;
+}
+img {
+    width: 90px;
+}
+td {
+    width: 183px;
+    height: 18vh;
+    background-color: aquamarine;
+}
+.mark {
+    background-color: cadetblue;
+}
+.corner {
+    background-color: cyan;
+    text-align: center;
+}
+td:hover {
+    width: 192px;
+    height: 19vh;
+    background-color: darkslategrey;
+    transition: 0.3s ease-in-out;
+}

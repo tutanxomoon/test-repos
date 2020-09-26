@@ -1,0 +1,46 @@
+table {
+    width: 90%;
+    height: 70vh;
+    text-align: center;
+}
+.heading {
+    height: 3vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+img {
+    width: 30%;
+}
+.name, .type {
+    width: 10%;
+}
+.description {
+    width: 60%;
+}
+.pct {
+    width: 20%;
+}
+.df {
+    width: 100%;
+    height: 10vh;
+}
+.soul {
+    background-color: tan;
+}
+.time {
+    background-color: green;
+}
+.space {
+    background-color: lightblue;
+} 
+.mind {
+    background-color: yellow;
+}
+.reality {
+    background-color: tomato;
+}
+.power {
+    background-color: purple;
+}
